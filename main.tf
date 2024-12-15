@@ -10,8 +10,8 @@ terraform {
 # Configure the AWS Provider
 provider "aws" {
   region     = "us-east-1"
-  access_key = "AKIAX3DNHZCSXSAIIOKA"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
 
 # Generate an RSA key of size 4096 bits
